@@ -1,7 +1,7 @@
 package codeoftheday; 
-public class Main{ 
+public class Day1{ 
 public static void main(String[] args) { 
- Main obj=new Main(); 
+ Day1 obj=new Day1(); 
  obj.reverse1(); 
 obj.reverse2(); 
  System.out.println(obj.reverse3(obj.str)); 
